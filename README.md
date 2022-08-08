@@ -1,4 +1,4 @@
-# Funny Jokes 
+# Sticker Room 
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Sticker Room is a Sticker app for whatsapp provided by Innovate InfoSoft. User c
 
 
 ## What we collect
-Storage permission: when you use status download, we need to access device media to make profile of the user. so we ask for read and write permission of your device to make application work.
+Storage permission: when you use sticker room, we need to access device media to make profile of the user. so we ask for read and write permission of your device to make application work.
 
 
 ## Updates in privacy policy
