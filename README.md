@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-Sticker Room is a Sticker app for whatsapp provided by Innovate InfoSoft. User can their Favourite Stickers to Whatsapp as per category wise. Innovate InfoSoft respects and protects users’ personal privacy.
+Sticker Room is a Sticker app for whatsapp provided by Innovate InfoSoft. User can download their Favourite Stickers to Whatsapp as per category wise. Innovate InfoSoft respects and protects users’ personal privacy.
 
 
 ## What we collect
